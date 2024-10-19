@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Ridmaportfolio/static/css/main.02c20f53.css",
+    "main.js": "/Ridmaportfolio/static/js/main.5b8a7033.js",
+    "static/media/image5.png.jpg": "/Ridmaportfolio/static/media/image5.png.c68a43f5363f54772a7b.jpg",
+    "static/media/p1.png.jpg": "/Ridmaportfolio/static/media/p1.png.63135da7af471f5304d1.jpg",
+    "static/media/p6.png.jpg": "/Ridmaportfolio/static/media/p6.png.9a0d7d7321aa4937e120.jpg",
+    "static/media/new3.png": "/Ridmaportfolio/static/media/new3.bc802cafd4beb2ee9062.png",
+    "index.html": "/Ridmaportfolio/index.html",
+    "main.02c20f53.css.map": "/Ridmaportfolio/static/css/main.02c20f53.css.map",
+    "main.5b8a7033.js.map": "/Ridmaportfolio/static/js/main.5b8a7033.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02c20f53.css",
+    "static/js/main.5b8a7033.js"
+  ]
+}
